@@ -3,6 +3,18 @@ html {
 }
 
 body {
-  background-color: #fcfcfc;
-  color: rgb(50, 14, 33);
+  background-color: rgb(239, 245, 250);
+}
+
+h1 {
+  color: rgb(46, 47, 93);
+}
+
+h2 {
+  color: rgb(46, 47, 93);
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(52, 68, 88);
 }
